@@ -35,6 +35,7 @@ lib-cov
 /flutter_app/.pub-cache/
 /flutter_app/.pub/
 /flutter_app/build/
+/flutter_app/android/build/
 
 # iOS/Android
 *.symbols
